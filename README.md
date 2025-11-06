@@ -4,9 +4,9 @@
 
 <div align="center">
   
-  ### 👋 Hi there! I'm Nicolas
+  ### 👋 Hi there! Here's BLK_Berserk
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3CCCF7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%92%A1;Tech+Enthusiast+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=600&lines=Student+in+Computer+Science+&+Communication+Systems+%F0%9F%9A%80;Future+Embedded+Systems+Engineer+%F0%9F%92%A1;Hardware+Enthusiast+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A;" alt="Typing SVG" />
   
 </div>
 
@@ -19,23 +19,24 @@
 </div>
 
 ```typescript
-const nicolas = {
+const BLK_Berserk = {
     location: "🌍 World",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "HTML/CSS"],
-    technologies: {
-        frontEnd: {
-            frameworks: ["React", "Vue", "Angular", "Next.js"],
-            styling: ["TailwindCSS", "Material-UI", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express", "NestJS"],
-            python: ["Django", "Flask", "FastAPI"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        tools: ["Docker", "Git", "AWS", "CI/CD"],
-    },
-    currentFocus: "Building innovative web applications",
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
+    advancedSkills: [
+        "C programming for embedded systems",
+        "VHDL digital system design",
+        "PCB design & production (Altium Designer)"
+    ],
+    generalSkills: [
+        "C++ object-oriented programming",
+        "Python programming"
+    ],
+    learning: [
+        "C# programming",
+        "LabVIEW measurement and control system design",
+        "Structured Text (ST) programming for PLCs"
+    ],
+    currentFocus: "Digital system design, embedded software, PCB development, and industrial automation.",
+    funFact: "I love bridging the gap between hardware and software!"
 };
 ```
 
@@ -49,22 +50,14 @@ const nicolas = {
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-0081CB?style=for-the-badge&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Structured Text](https://img.shields.io/badge/Structured%20Text-4B4B77?style=for-the-badge&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-F4D03F?style=for-the-badge&logoColor=black)
 </div>
 
 ---
@@ -125,10 +118,8 @@ const nicolas = {
   
   ## 📫 Connect With Me
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/nicolas-weber-15472a345/))
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theblackberserker@protonmail.com)
   
 </div>
 
