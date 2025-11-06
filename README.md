@@ -6,7 +6,7 @@
   
   ### 👋 Hi there! Here's BLK_Berserk
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=600&lines=Student+in+Computer+Science+&+Communication+Systems+%F0%9F%9A%80;Future+Embedded+Systems+Engineer+%F0%9F%92%A1;Hardware+Enthusiast+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=1000&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=1000&lines=Student+at+HE-Arc+%F0%9F%8F%AB;HES-SO+Bachelor+in+Computer+Science+%F0%9F%8F%9B%EF%B8%8F;Future+Embedded+Systems+Engineer+%F0%9F%92%A1;Hardware+Enthusiast+%F0%9F%92%BB;Always+acquiring+new+knowledge+%F0%9F%93%9A;" alt="Typing SVG" />
   
 </div>
 
